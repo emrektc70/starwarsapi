@@ -1,0 +1,39 @@
+
+.h1 {
+  font-size: 30px;
+  color: rgb(1, 1, 59);
+  text-align: center;
+ 
+
+}
+
+.search {
+  
+  width: 30%;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+
+}
+
+li {
+  font-size: 20px;
+  padding: 15px 0;
+  cursor: pointer;
+  position: relative;
+  margin-right: 50px;
+  align-items: left;
+  display: inline-block;
+  list-style: none;
+  
+
+
+}
+
+
+nav {
+  align-items: center;
+}
+
+
+
